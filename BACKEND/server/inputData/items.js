@@ -9,9 +9,9 @@ module.exports = function (str) {
 
     //console.log(item);
 
-    item.sort = function () {
-        console.log('sorted');
-    }
+//    item.sort = function () {
+//        console.log('sorted');
+//    }
 
     return item;
 

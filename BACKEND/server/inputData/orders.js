@@ -1,17 +1,36 @@
-var order = {};
+module.exports = function (str, itemCount) {
 
-var item = require('./items');
+    var order = {};
 
-//console.log(item);
-//console.log(item("test"));
-//console.log(item().sort());
+    var item = require('./items');
 
-var itemObj = item("burger");
+    //console.log(item);
+    //console.log(item("test"));
+    //console.log(item().sort());
+
+    var itemObj = item("burger");
+    var itemObj2 = item("appam");
+    
+    order["items"] = [];
 
 
-order["items"] = [itemObj];
-order["createdAt"] = Date.now();
-order["cusId"] = 1;
-order["value"] = 100;
+    for (var i = 0; i < itemCount; i++) {
+        var itemObj = item("item #"+i);
+//        var orderObj = order("O" + i, u.randInt(1, 5));
+//
+//        orders.push(orderObj);
+        
+        order["items"].push(itemObj);
+    }
 
-console.log(order);
+
+//    order["items"] = [itemObj, itemObj2];
+    order["createdAt"] = Date.now();
+    order["cusId"] = str;
+    order["value"] = 100;
+
+    //    console.log(order);
+
+    return order;
+
+}
