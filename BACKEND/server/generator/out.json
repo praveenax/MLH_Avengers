@@ -1,0 +1,162 @@
+{
+    "i1": {
+        "id": "i1",
+        "name": "i1",
+        "duration": 8,
+        "cost": 76,
+        "tasks": ["tk6", "tk7", "tk8", "tk9", "tk10", "tk11", "tk12", "tk13"],
+        "tag": []
+    },
+    "i2": {
+        "id": "i2",
+        "name": "i2",
+        "duration": 4,
+        "cost": 183,
+        "tasks": ["tk2", "tk3", "tk4", "tk5", "tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i3": {
+        "id": "i3",
+        "name": "i3",
+        "duration": 10,
+        "cost": 157,
+        "tasks": ["tk7", "tk8", "tk9", "tk10"],
+        "tag": []
+    },
+    "i4": {
+        "id": "i4",
+        "name": "i4",
+        "duration": 7,
+        "cost": 107,
+        "tasks": ["tk2", "tk3", "tk4", "tk5"],
+        "tag": []
+    },
+    "i5": {
+        "id": "i5",
+        "name": "i5",
+        "duration": 3,
+        "cost": 118,
+        "tasks": ["tk10", "tk11", "tk12", "tk13", "tk14", "tk15"],
+        "tag": []
+    },
+    "i6": {
+        "id": "i6",
+        "name": "i6",
+        "duration": 4,
+        "cost": 49,
+        "tasks": ["tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i7": {
+        "id": "i7",
+        "name": "i7",
+        "duration": 7,
+        "cost": 115,
+        "tasks": ["tk2", "tk3", "tk4", "tk5"],
+        "tag": []
+    },
+    "i8": {
+        "id": "i8",
+        "name": "i8",
+        "duration": 8,
+        "cost": 193,
+        "tasks": ["tk3", "tk4", "tk5", "tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i9": {
+        "id": "i9",
+        "name": "i9",
+        "duration": 10,
+        "cost": 179,
+        "tasks": ["tk6", "tk7", "tk8", "tk9", "tk10", "tk11"],
+        "tag": []
+    },
+    "i10": {
+        "id": "i10",
+        "name": "i10",
+        "duration": 6,
+        "cost": 30,
+        "tasks": ["tk9", "tk10", "tk11", "tk12"],
+        "tag": []
+    },
+    "i11": {
+        "id": "i11",
+        "name": "i11",
+        "duration": 2,
+        "cost": 93,
+        "tasks": ["tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i12": {
+        "id": "i12",
+        "name": "i12",
+        "duration": 9,
+        "cost": 139,
+        "tasks": ["tk8", "tk9", "tk10", "tk11"],
+        "tag": []
+    },
+    "i13": {
+        "id": "i13",
+        "name": "i13",
+        "duration": 11,
+        "cost": 201,
+        "tasks": ["tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i14": {
+        "id": "i14",
+        "name": "i14",
+        "duration": 7,
+        "cost": 138,
+        "tasks": ["tk8", "tk9", "tk10", "tk11", "tk12", "tk13", "tk14"],
+        "tag": []
+    },
+    "i15": {
+        "id": "i15",
+        "name": "i15",
+        "duration": 11,
+        "cost": 147,
+        "tasks": ["tk10", "tk11", "tk12", "tk13"],
+        "tag": []
+    },
+    "i16": {
+        "id": "i16",
+        "name": "i16",
+        "duration": 2,
+        "cost": 208,
+        "tasks": ["tk4", "tk5", "tk6", "tk7", "tk8"],
+        "tag": []
+    },
+    "i17": {
+        "id": "i17",
+        "name": "i17",
+        "duration": 5,
+        "cost": 185,
+        "tasks": ["tk8", "tk9", "tk10"],
+        "tag": []
+    },
+    "i18": {
+        "id": "i18",
+        "name": "i18",
+        "duration": 5,
+        "cost": 136,
+        "tasks": ["tk4", "tk5", "tk6"],
+        "tag": []
+    },
+    "i19": {
+        "id": "i19",
+        "name": "i19",
+        "duration": 8,
+        "cost": 174,
+        "tasks": ["tk10", "tk11", "tk12", "tk13", "tk14"],
+        "tag": []
+    },
+    "i20": {
+        "id": "i20",
+        "name": "i20",
+        "duration": 7,
+        "cost": 127,
+        "tasks": ["tk7", "tk8", "tk9", "tk10", "tk11"],
+        "tag": []
+    }
+}

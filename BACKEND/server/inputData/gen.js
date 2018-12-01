@@ -31,6 +31,9 @@ var values = orders.map(order => (
 
 console.log(values);
 
-var task = [];
+var tasks = [];
 var all_items = _.flattenDeep(values);
 console.log(all_items);
+
+//fetch the tasks from items 
+
